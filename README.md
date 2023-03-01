@@ -7,7 +7,7 @@
 ![portfolio](https://user-images.githubusercontent.com/104723233/222150716-fa9508e2-f136-402c-9e45-ad8f6a0eabc8.jpg)
 
 
-## Section 🎯
+## Sections 🎯
 
 - **Home**
 - **About**
