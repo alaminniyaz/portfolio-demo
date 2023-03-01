@@ -1,5 +1,5 @@
 
-# Portfolio Website 🔥
+# Portfolio Website
 
 **A Simple & Clean Website for Developers 🚀**
 
